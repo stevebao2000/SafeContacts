@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Safe Contacts</string>
+    <string name="readContacts">Read Contacts</string>
+    <string name="save">Save</string>
+    <string name="exportfile">Save to Download</string>
+    <string name="importfile">Load Ext File</string>
+    <string name="EnterPhone">Phone Number</string>
+    <string name="enterName">Enter Name</string>
+    <string name="setting">Setting</string>
+    <string name="load">Load</string>
+    <string name="importcontact">Import Contacts and Edit</string>
+</resources>
